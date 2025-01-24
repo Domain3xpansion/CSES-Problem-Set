@@ -19,4 +19,4 @@
 | Name                                                           | Solution                                                            |
 | -------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Missing Number](https://cses.fi/problemset/task/1083/)        | [Missing Number.cpp](/Introductory%20Problems/Missing%20Number.cpp) |
-| [Trailing Zeros](https://cses.fi/problemset/task/1618/)        | [Trailing Zeros.cpp](/Introductory%20Problems/Trailing%Zeros.cpp)   |
+| [Trailing Zeros](https://cses.fi/problemset/task/1618/)        | [Trailing Zeros.cpp](/Introductory%20Problems/Trailing%20Zeros.cpp) |
