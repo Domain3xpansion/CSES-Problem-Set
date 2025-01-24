@@ -22,3 +22,5 @@ int main(){
     cout << missingnum(arr, n);
     return 0;
 }
+
+//https://gist.github.com/souravrax/7a3f17c61d593dbb160cc418ce0e7c31
