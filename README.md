@@ -16,6 +16,6 @@
 
 ---
 ## Introductory Problems
-| Name                                                           | Solution                                                       |
-| -------------------------------------------------------------- | ---------------------------------------------------------------|
-| [Missing Number](https://cses.fi/problemset/task/1083/)        | [Missing Number.cpp](Introductory Problems/Missing Number.cpp) |
+| Name                                                           | Solution                                                         |
+| -------------------------------------------------------------- | -----------------------------------------------------------------|
+| [Missing Number](https://cses.fi/problemset/task/1083/)        | [Missing Number.cpp]("Introductory Problems/Missing Number.cpp") |
