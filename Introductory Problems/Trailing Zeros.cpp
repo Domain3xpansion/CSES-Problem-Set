@@ -17,7 +17,8 @@ int main(){
     return 0;
 }
 
-/*How to find a trailing zero in a number?
+/*
+How to find a trailing zero in a number?
 By counting the the no of zeroes(obvious)
 But, a no(it has to be a natural no) ends with 0, when we multiply a number with 10
 For example, 18*10 = 180, 2*10 = 20 etc
